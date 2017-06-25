@@ -1,2 +1,2 @@
 # LPTHW
-Going throught the Learn Python the Hard Way book by Zed Shaw
+Going through the Learn Python the Hard Way book by Zed Shaw
